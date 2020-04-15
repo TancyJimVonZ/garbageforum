@@ -1,0 +1,9 @@
+com\tancyj\forum\domain\Comment.class
+com\tancyj\forum\domain\Post.class
+com\tancyj\forum\domain\Tag.class
+com\tancyj\forum\domain\Follower_fan.class
+com\tancyj\forum\domain\SysLog.class
+com\tancyj\forum\domain\User.class
+com\tancyj\forum\domain\Role.class
+com\tancyj\forum\domain\Type.class
+com\tancyj\forum\domain\Proclamation.class

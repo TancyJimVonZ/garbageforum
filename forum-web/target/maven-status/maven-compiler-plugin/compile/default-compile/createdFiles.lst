@@ -1,0 +1,10 @@
+com\tancyj\forum\controller\Follower_fanController.class
+com\tancyj\forum\controller\TagController.class
+com\tancyj\forum\controller\TypeController.class
+com\tancyj\forum\controller\ProclamationController.class
+com\tancyj\forum\controller\RoleController.class
+com\tancyj\forum\controller\PostController.class
+com\tancyj\forum\controller\CommentController.class
+com\tancyj\forum\controller\SysLogController.class
+com\tancyj\forum\controller\LogAop.class
+com\tancyj\forum\controller\UserController.class

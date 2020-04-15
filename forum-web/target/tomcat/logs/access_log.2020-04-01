@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:39 +0800] "GET /forum-web HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:39 +0800] "GET /forum-web/ HTTP/1.1" 302 - http-bio-8080-exec-2 218
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:40 +0800] "GET /forum-web/login.jsp HTTP/1.1" 200 2597 http-bio-8080-exec-3 279
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:40 +0800] "GET /forum-web/plugins/iCheck/square/blue.css HTTP/1.1" 200 1611 http-bio-8080-exec-8 160
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:40 +0800] "GET /forum-web/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31000 http-bio-8080-exec-5 219
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:40 +0800] "GET /forum-web/plugins/iCheck/icheck.min.js HTTP/1.1" 200 4516 http-bio-8080-exec-5 13
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:40 +0800] "GET /forum-web/plugins/jQuery/jquery-2.2.3.min.js HTTP/1.1" 200 85659 http-bio-8080-exec-9 227
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:40 +0800] "GET /forum-web/plugins/ionicons/css/ionicons.min.css HTTP/1.1" 200 51284 http-bio-8080-exec-6 268
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:40 +0800] "GET /forum-web/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 121237 http-bio-8080-exec-4 290
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:40 +0800] "GET /forum-web/plugins/adminLTE/css/AdminLTE.css HTTP/1.1" 200 110374 http-bio-8080-exec-7 353
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:40 +0800] "GET /forum-web/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 37045 http-bio-8080-exec-10 223
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:41 +0800] "GET /forum-web/plugins/iCheck/square/blue@2x.png HTTP/1.1" 200 4485 http-bio-8080-exec-10 39
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:41 +0800] "GET /forum-web/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028 http-bio-8080-exec-7 78
+0:0:0:0:0:0:0:1 - - [01/Apr/2020:03:38:41 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-7 0

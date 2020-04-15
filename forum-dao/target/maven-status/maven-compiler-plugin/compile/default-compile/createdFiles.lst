@@ -1,0 +1,9 @@
+com\tancyj\forum\dao\IFollower_fanDao.class
+com\tancyj\forum\dao\IProclamationDao.class
+com\tancyj\forum\dao\IPostDao.class
+com\tancyj\forum\dao\ITypeDao.class
+com\tancyj\forum\dao\ITagDao.class
+com\tancyj\forum\dao\IRoleDao.class
+com\tancyj\forum\dao\ISysLogDao.class
+com\tancyj\forum\dao\ICommentDao.class
+com\tancyj\forum\dao\IUserDao.class
